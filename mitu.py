@@ -91,7 +91,7 @@
 
 
 # campA={"user101","user102","user103","user104"}
-# campB={"user103","user104","user105","user106"}s
+# campB={"user103","user104","user105","user106"}ss
 
 # print("common:",campA&campB)
 # print("unique to campa:",campA-campB)
