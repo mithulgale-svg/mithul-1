@@ -1,1 +1,1 @@
-good mrng
+print("hello")

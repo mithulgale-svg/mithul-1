@@ -90,9 +90,10 @@
 # task10
 
 
-campA={"user101","user102","user103","user104"}
-campB={"user103","user104","user105","user106"}
+# campA={"user101","user102","user103","user104"}
+# campB={"user103","user104","user105","user106"}s
 
-print("common:",campA&campB)
-print("unique to campa:",campA-campB)
-print("")
+# print("common:",campA&campB)
+# print("unique to campa:",campA-campB)
+# print("")
+print("hello")
