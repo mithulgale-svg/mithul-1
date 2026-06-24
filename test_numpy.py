@@ -99,3 +99,9 @@ import pandas as pd
 # print(s)
 df=pd.read_csv(r"C:\Users\THINKPAD P15s\Downloads\archive\players_17.csv")
 print(df.head())
+
+json_data=pd.read_json("colors.json")
+print(json_data)
+print(json_data.head(10))
+print(json_data.tail(10))
+print(json_data.info())
